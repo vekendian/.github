@@ -1,8 +1,7 @@
 # VEKENDIAN
 
-
 <div align="center">
-<table><tr><td align="left">
+  <table><tr><td align="left">
 <pre>
 
                     .,coxo'                 ,lkxl;.
@@ -27,8 +26,6 @@
                                                    .
 </pre>
 </td></tr></table>
-</div>
-<div align="center">
 **The more we explore, the more we discover.**
 
 *Independent Modding & Development Collective*
