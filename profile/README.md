@@ -26,9 +26,7 @@
                                                    .
 </pre>
 </td></tr></table>
-**The more we explore, the more we discover.**
-
-*Independent Modding & Development Collective*
+The more we explore, the more we discover.
 
 </div>
 
