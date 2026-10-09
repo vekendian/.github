@@ -2,7 +2,6 @@
 
 
 <pre>
-```
 
                     .,coxo'                 ,lkxl;.
                  .,d0XMW:                     .0MNKkc..
@@ -24,9 +23,6 @@
               ..do.                                  ;x;.
                  .:'                               .;;
                                                    .
-
-
-```
 </pre>
 <div align="center">
 **The more we explore, the more we discover.**
