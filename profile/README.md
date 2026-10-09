@@ -4,7 +4,6 @@
 
 
 <pre>
-
                     .,coxo'                 ,lkxl;.
                  .,d0XMW:                     .0MNKkc..
                .cOKd,lMo                       .N0'c0Xx,.
