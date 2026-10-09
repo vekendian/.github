@@ -5,9 +5,6 @@
 <table><tr><td align="left">
 <pre>
 
-
-```
-
                     .,coxo'                 ,lkxl;.
                  .,d0XMW:                     .0MNKkc..
                .cOKd,lMo                       .N0'c0Xx,.
@@ -28,9 +25,6 @@
               ..do.                                  ;x;.
                  .:'                               .;;
                                                    .
-
-
-```
 </pre>
 </td></tr></table>
 </div>
