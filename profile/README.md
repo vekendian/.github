@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<pre>
+
                         ..':lo;.                  .,lol;..
                      ..lkKWWx'                     ..l0MN0d;...
                    .:kXKkNW:                          .0MkON0d,..
@@ -26,7 +26,7 @@
                ...dk.                                         c0;.
                   .,o:                                      .lc.
                      .'.                                   .,
-</pre>
+
 
 **The more we explore, the more we discover.**
 
