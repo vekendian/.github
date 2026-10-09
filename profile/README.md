@@ -3,29 +3,31 @@
 <div align="center">
 
 
-<pre>
-.,coxo'                 ,lkxl;.
-                                .,d0XMW:                     .0MNKkc..
-                              .cOKd,lMo                       .N0'c0Xx,.
-                           . :OKl''.:N:                       .KO.';;kXl.
-                           .:Xx;'.';:do.      .  ..',l:;c.    :0kxc..,cXx'.
-                         .'oNd:;..',;:cd;;c' .,.... ..,cl.;::dOxxl;..'c:XK,.
-                         .lMk;;''...,,,xd;;O0dl:..  .';lkKo:x0l,;;..''';lN0.
-                         'XXoc;':.. ;:':x'',OWWo     .XWNc:okx';c. .,:'cldMl.
-                        .cMOdo.;..',;:,,;,:;'XM0.   .,WWc:xc:,;;,:.'.,,:l0N0.
-                        .dMN:,',,;cxdkx; .';,;WMx; .cNMx':,. .oxkdlc',;.;kWW.
-                        .dMW,,ococc', .   .:;;OWN'  OWNc';:.   ...cccld:'dMN.
-                        .cMM:lx;k.        ':..'0N0 cNNo..'''       ..xoo:kM0.
-                         .XMdxk.:        .......OKo0Kc', .::.        ;cOcNMc.
-                        ..cMXl0.            'Oc':OOko.'   ..''. .     dkoM0.
-                        . 'lWdcc            .... oxx.                .x:NK;.
-                          ..lN:'                 .x:                 ''0O'.
-                            'c0:                  ,                  .Od'.
-                             ..do.                                  ;x;.
-                                .:'                               .;;
-                                                                  .
+```
 
-</pre>
+                    .,coxo'                 ,lkxl;.
+                 .,d0XMW:                     .0MNKkc..
+               .cOKd,lMo                       .N0'c0Xx,.
+            . :OKl''.:N:                       .KO.';;kXl.
+            .:Xx;'.';:do.      .  ..',l:;c.    :0kxc..,cXx'.
+          .'oNd:;..',;:cd;;c' .,.... ..,cl.;::dOxxl;..'c:XK,.
+          .lMk;;''...,,,xd;;O0dl:..  .';lkKo:x0l,;;..''';lN0.
+          'XXoc;':.. ;:':x'',OWWo     .XWNc:okx';c. .,:'cldMl.
+         .cMOdo.;..',;:,,;,:;'XM0.   .,WWc:xc:,;;,:.'.,,:l0N0.
+         .dMN:,',,;cxdkx; .';,;WMx; .cNMx':,. .oxkdlc',;.;kWW.
+         .dMW,,ococc', .   .:;;OWN'  OWNc';:.   ...cccld:'dMN.
+         .cMM:lx;k.        ':..'0N0 cNNo..'''       ..xoo:kM0.
+          .XMdxk.:        .......OKo0Kc', .::.        ;cOcNMc.
+         ..cMXl0.            'Oc':OOko.'   ..''. .     dkoM0.
+         . 'lWdcc            .... oxx.                .x:NK;.
+           ..lN:'                 .x:                 ''0O'.
+             'c0:                  ,                  .Od'.
+              ..do.                                  ;x;.
+                 .:'                               .;;
+                                                   .
+
+
+```
 
 
 **The more we explore, the more we discover.**
