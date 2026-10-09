@@ -1,7 +1,7 @@
 # VEKENDIAN
 
 
-
+<pre>
 ```
 
                     .,coxo'                 ,lkxl;.
@@ -27,6 +27,7 @@
 
 
 ```
+</pre>
 <div align="center">
 **The more we explore, the more we discover.**
 
